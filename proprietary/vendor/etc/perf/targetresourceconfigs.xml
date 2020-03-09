@@ -61,4 +61,3 @@ as anyway perflock calls of these resources would fail. -->
 
     </PerfResources>
 </ResourceConfigs>
-
